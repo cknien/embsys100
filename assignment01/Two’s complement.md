@@ -1,7 +1,7 @@
-Question:
+**Question:**
 Why use two’s complement to represent negative numbers?
 
-Answer:
+**Answer:**
 Because two’s complement gives computer the capability of dealing with addition and subtraction of negative numbers 
 without any other operations. 
 
