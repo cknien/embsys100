@@ -1,5 +1,7 @@
 **Observe and answer:**
+\n
 	*1. Inject 0x1FFFFFFF for the “counter” value in the variable window, then step thru the program only once to increment “counter”.*
+	
 	a) What is the value of the “counter” from the “Locals” window?
 	 **0x20000000**
 	b) What is the value of the “counter” in the “Register” window?
