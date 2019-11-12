@@ -7,7 +7,9 @@ Ans:see attached source code "main.c"
 *b. What instructions does the compiler produce in assembly for the “writing” to the GPIO bit when using bit-band address?*
 
 Ans: MOVS
+
      LDR. N
+     
      STR
 
 *c. What were the instructions produced when writing to the GPIOx_ODR bit[5] directly?*
