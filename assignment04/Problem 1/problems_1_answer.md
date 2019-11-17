@@ -2,7 +2,7 @@
 
 *a. Convert the Blinking Led demo to use the corresponding bit-band address instead of the register address used in the peripheral region.*
 
-Ans:see attached source code "main.c"
+>Ans: see attached source code "main.c"
 
 *b. What instructions does the compiler produce in assembly for the “writing” to the GPIO bit when using bit-band address?*
 
