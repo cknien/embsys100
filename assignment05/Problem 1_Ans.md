@@ -11,3 +11,5 @@
 
 
 c. Share a screen shot of the local variables inside of “main” after the function swap_pointer() returns, showing the values of the pointers and what they are pointing to, similar to the picture below:
+
+> ![image] (https://github.com/cknien/embsys100/blob/master/assignment05/Problem_1_c.PNG)
