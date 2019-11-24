@@ -10,6 +10,6 @@
 > R0 and R1 values are the address of local pointer ap and bp
 
 
-c. Share a screen shot of the local variables inside of “main” after the function swap_pointer() returns, showing the values of the pointers and what they are pointing to, similar to the picture below:
+*c. Share a screen shot of the local variables inside of “main” after the function swap_pointer() returns, showing the values of the pointers and what they are pointing to, similar to the picture below:*
 
-![image] (https://github.com/cknien/embsys100/blob/master/assignment05/Problem_1_c.PNG)
+![image](https://github.com/cknien/embsys100/blob/master/assignment05/Problem_1_c.PNG)
