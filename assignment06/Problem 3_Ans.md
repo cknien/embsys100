@@ -7,5 +7,7 @@
 > 8,192 Bite
 
 *c. What part of your program is using the most ROM?*
+> The main, delay, and user_led functions code
 
 *d. What part of your program is using the most RAM?*
+> Linker
